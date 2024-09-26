@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# exclude test build folder for next js
+my_output_folder
+
 ### STS ###
 .apt_generated
 .classpath
